@@ -37,12 +37,11 @@
   > featuring **advanced custom features** and **daily updates**
 
   ### 🛠️ Tech Stack for DecayPvP
-  - **Backend**: Java, Kotlin, Rust
+  - **Backend**: Java & Advanced DataBase systems
   - **Web**: Laravel, PHP
   - **Infrastructure**: Custom systems & optimizations
 
   ## 💖 Fun Facts
-  - ⚡ **Rustacean** at heart
   - 🎯 **Minecraft** plugin developer
   - 🚀 **Anti-P2W** advocate
   - 📈 **Daily updates** enthusiast
